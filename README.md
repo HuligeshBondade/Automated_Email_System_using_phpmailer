@@ -4,11 +4,14 @@ This project is a simple and efficient email scheduler built using PHP and PHPMa
 
 ## Features
 
-* **User-Friendly Contact Form**: A form for submitting emails, including fields for the sender's name, recipient's email address, subject, and message.
+- **User-Friendly Contact Form**: A form for submitting emails, including fields for the sender's name, recipient's email address, subject, and message.
 - **PHPMailer Integration**: Utilizes PHPMailer for sending emails, ensuring reliable delivery and support for HTML content.
 - **SMTP Configuration**: Configured to use Gmail's SMTP server for secure email sending.
 - **Dynamic Recipient**: Users can specify the recipient's email address through the contact form.
 - **Feedback Notifications**: Alerts the user with success or error messages upon form submission.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/6d40ba44-e8bc-44a5-b5fe-bdfee97051a8)
 
 ## Installation
 
