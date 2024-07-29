@@ -17,12 +17,22 @@ This project is a simple and efficient email scheduler built using PHP and PHPMa
    git clone https://github.com/your-username/email-scheduler-phpmailer.git
 
 2. Navigate to the project directory:
-```bash
-cd email-scheduler-phpmailer
+   ```bash
+   cd email-scheduler-phpmailer
 
 3. Install PHPMailer via Composer (if not already installed):
-```bash
-composer require phpmailer/phpmailer
+   ```bash
+   composer require phpmailer/phpmailer
 
+4. Configure your SMTP settings in mail.php.
 
-Configure your SMTP settings in mail.php.
+## Usage
+- Run the project on a local server (e.g., XAMPP).
+- Open the project in your web browser.
+- Fill out the contact form with your name, recipient's email address, subject, and message.
+- Submit the form to send the email.
+  
+## Dependencies
+- PHP
+- PHPMailer
+- Composer
